@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/LWP/UserAgent.pm
+lib/LWP/RobotUA.pm
+lib/LWP/Simple.pm

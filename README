@@ -1,0 +1,12 @@
+WARNING!!!  Don't install this if you don't know what you do!
+
+This is an experimental LWP5 adaptor layer on top of LWPng.  It
+provides the LWP::UserAgent and LWP::Simple interfaces.  Once LWPng is
+stable and this emulation works well LWP5 will be declared obsolete.
+It will still take some time until this happens.
+
+-- 
+Copyright 1998 Gisle Aas.
+
+This library is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
